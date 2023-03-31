@@ -38,3 +38,7 @@ Therefore, if you want to change any settings, do not change them ingame but rat
 - in game sensitivity : 1
 - usb refreshrate 1000hz
 
+## Usefull links
+
+https://totalcsgo.com/binds/keys
+https://totalcsgo.com/commands
